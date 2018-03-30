@@ -8,6 +8,8 @@ ebin
 log
 Mnesia*
 *.dump
+.idea
+openpoker.iml
 
 rel/openpoker/
 rel/log/
